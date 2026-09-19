@@ -37,7 +37,7 @@ The assignment focuses on building a strong foundation in Python programming thr
 
 ## Technologies Used
 
-- Python 3
+- Python
 - Google Colab
 
 ## Objective
