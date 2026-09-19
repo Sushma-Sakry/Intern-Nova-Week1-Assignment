@@ -23,17 +23,17 @@ The assignment focuses on building a strong foundation in Python programming thr
 
 ## Project Files
 
-| File | Description |
+| Tasks | Description |
 |------|-------------|
-| `Task1_Python_Basics.py` | Basic Python program with user input and formatted output |
-| `Task2_Variables_DataTypes.py` | Demonstrates variables and different Python data types |
-| `Task3_Calculator.py` | Performs basic arithmetic operations |
-| `Task4_Conditional_Statements.py` | Assigns grades using if, elif and else |
-| `Task5_Loops.py` | Demonstrates for and while loops |
-| `Task6_Functions.py` | Demonstrates user-defined functions for square and average |
-| `Task7_Strings_Collections.py` | Demonstrates strings, lists, tuples, dictionaries and sets |
-| `Task8_File_Handling.py` | Creates, writes, reads and displays a text file |
-| `Task9_Student_Record_Management.py` | Mini project for managing student records |
+| Task 1 Python Basics | Basic Python program with user input and formatted output |
+| Task 2 Variables Data Types | Demonstrates variables and different Python data types |
+| Task 3 Calculator | Performs basic arithmetic operations |
+| Task 4 Conditional Statements | Assigns grades using if, elif and else |
+| Task 5 Loops | Demonstrates for and while loops |
+| Task 6 Functions | Demonstrates user-defined functions for square and average |
+| Task 7 Strings Collections | Demonstrates strings, lists, tuples, dictionaries and sets |
+| Task 8 File Handling | Creates, writes, reads and displays a text file |
+| Task 9 Student Record Management | Mini project for managing student records |
 
 ## Technologies Used
 
